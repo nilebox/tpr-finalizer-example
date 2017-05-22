@@ -1,5 +1,5 @@
 # tpr-finalizer-example
-An example of using finalizers in Kubernetes TPRs
+An example of using finalizers in Kubernetes TPRs (which currently **don't work**).
 
 ## Prerequisites
 
