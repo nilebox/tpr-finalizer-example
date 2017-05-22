@@ -1,0 +1,7 @@
+apiVersion: extensions/v1beta1
+kind: ThirdPartyResource
+description: "Example Foobar resource"
+metadata:
+  name: foobar.example.com
+versions:
+  - name: v1

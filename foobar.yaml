@@ -1,0 +1,9 @@
+apiVersion: example.com/v1
+kind: Foobar
+description: "Sample Foobar instance"
+metadata:
+  name: foobar1
+  finalizers:
+  - example.com/test-finalizer
+spec:
+  foo: bar
